@@ -6,6 +6,20 @@ import os
 # Judul halaman
 st.title("📝 Form Input Data Pengguna")
 
+st.header("Praktikum 1 Visualisasi Data")
+st.subheader("Bagian 1: Teks Element")
+st.markdown("""
+1. Chika Karena - 0110222015
+2. Chery Renata  - 0110222011
+3. Ira Pratiwi - 01102222162
+
+Kelas: VISUALISASI DATA (7TI01)  
+Dosen Pengampu: Pak IMAM HAROMAIN, S.Si., M.Kom. 
+STT Terpadu Nurul Fikri
+""")
+# Judul halaman
+st.title("📝 Form Input Data Pengguna")
+
 # ======================
 # 📋 FORM INPUT DATA
 # ======================
